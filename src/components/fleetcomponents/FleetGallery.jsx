@@ -1,11 +1,11 @@
 import React from "react";
 import { motion } from "framer-motion";
-import truck1 from "../../assets/fleet/truck1.jpeg";
+import truck1 from "../../assets/fleet/truck1.webp";
 import truck2 from "../../assets/fleet/truck2.jpg";
-import truck3 from "../../assets/fleet/truck3.png";
-import truck4 from "../../assets/fleet/truck4.webp";
-import truck5 from "../../assets/fleet/truck5.webp";
-import truck6 from "../../assets/fleet/truck6.webp";
+import truck3 from "../../assets/fleet/truck3.jpg";
+import truck4 from "../../assets/fleet/truck4.jpg";
+import truck5 from "../../assets/fleet/truck5.avif";
+import truck6 from "../../assets/fleet/truck6.jpeg";
 
 export default function FleetGallery() {
   const fleet = [

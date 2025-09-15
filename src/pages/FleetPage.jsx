@@ -4,7 +4,7 @@ import FleetCategories from '../components/fleetcomponents/FleetCategories'
 import FleetTechnology from '../components/fleetcomponents/FleetTechnology'
 import DriverExpertise from '../components/fleetcomponents/DriverExpertise'
 import FleetGallery from '../components/fleetcomponents/FleetGallery'
-import FleetStats from '../components/fleetcomponents/FleetStats'
+// import FleetStats from '../components/fleetcomponents/FleetStats'
 
 const FleetPage = () => {
   return (
@@ -14,7 +14,7 @@ const FleetPage = () => {
       <FleetTechnology/>
       <DriverExpertise/>
       <FleetGallery/>
-      <FleetStats/>
+      {/* <FleetStats/> */}
     </>
   )
 }
